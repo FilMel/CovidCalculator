@@ -1,11 +1,17 @@
 # CovidCalculator
 An app for calculating the trajectory of the covid pandemy. It uses a simple mathematical formula.
 The app is based on a mathematical formula to calculate and predict:
+
 1.The number of Total cases in a specified time interval
+
 2.The number of Symptomatic cases in a specified time interval.
+
 3.The number of Asymptomatic cases in a specified time interval.
+
 4.The number of Deaths in a specified time interval.
+
 5.A graph rapresenting all the numbers.
+
 
 The app is fully customizable: The time interval, the starting number of cases, the growth factor, the % of asymptomatic cases, toogling the use of masks on/off. 
 This customization feature was implemented so the app could work properly as our understanding of the virus evolves.
